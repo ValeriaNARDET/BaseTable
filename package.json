@@ -1,0 +1,19 @@
+{
+  "name": "base-table",
+  "version": "1.0.0",
+  "description": "test task",
+  "author": "Valeria",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
